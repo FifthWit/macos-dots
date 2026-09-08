@@ -1,7 +1,13 @@
 # Modern, maintained replacement for ls
 brew "eza"
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
 # User-friendly command-line shell for UNIX-like operating systems
 brew "fish"
+# Unified display of technical and tag data for audio/video
+brew "media-info"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
 # Cross-shell prompt for astronauts
