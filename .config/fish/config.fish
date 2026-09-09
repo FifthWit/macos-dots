@@ -30,6 +30,7 @@ if status is-interactive
 
     alias clear "printf '\033[2J\033[3J\033[1;1H'"
     zoxide init fish | source
+    source $HOME/.local/bin/env.fish # Tinymist's Typlite
 end
 
 if test -f /opt/homebrew/Caskroom/miniconda/base/bin/conda
