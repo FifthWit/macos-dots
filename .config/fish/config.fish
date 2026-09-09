@@ -29,6 +29,7 @@ if status is-interactive
     alias hidefiles 'defaults write com.apple.finder AppleShowAllFiles NO; killall Finder'
 
     alias clear "printf '\033[2J\033[3J\033[1;1H'"
+    zoxide init fish | source
 end
 
 if test -f /opt/homebrew/Caskroom/miniconda/base/bin/conda
