@@ -10,10 +10,18 @@ brew "fzf"
 brew "media-info"
 # Open-source, cross-platform JavaScript runtime environment
 brew "node"
+# Swiss-army knife of markup format conversion
+brew "pandoc"
+# Highly capable, feature-rich programming language
+brew "perl"
+# Execute binaries from Python packages in isolated environments
+brew "pipx"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
 # Cross-shell prompt for astronauts
 brew "starship"
+# Services for Typst
+brew "tinymist"
 # Markup-based typesetting system
 brew "typst"
 # Shell extension to navigate your filesystem faster
